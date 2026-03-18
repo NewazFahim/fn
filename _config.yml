@@ -24,18 +24,18 @@ repository               : "https://github.com/NewazFahim/nmfahim.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "FAHIM NEWAZ"
+  pronouns         : "He/Him"  
+  bio              : "Phd Candidate in Nano Science."
+  location         : "Kanazawa, Ishikawa, Japan."
+  employer         : "Kanazawa University."
+  uri              : "https://www.kanazawa-u.ac.jp/"
+  email            : "nmfahim@stu.kanazawa-u.ac.jp" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://fukuma.w3.kanazawa-u.ac.jp/NewHP/English/index/index.html"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Q8CiLDkAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
